@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://replacement-fellow-poetry-hughes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://comfortable-compete-experiment-citizen.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-13 23:50:10 UTC
+Created   : 2026-10-14 04:11:28 UTC
 =======================================================
