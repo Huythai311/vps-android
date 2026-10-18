@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://words-assumption-geometry-premium.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://rep-hispanic-decisions-layout.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-18 03:45:49 UTC
+Created   : 2026-10-18 09:33:52 UTC
 =======================================================
