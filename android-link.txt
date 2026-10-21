@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://expiration-displayed-triumph-brand.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://mud-interracial-rolled-mold.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-21 10:04:45 UTC
+Created   : 2026-10-21 15:07:50 UTC
 =======================================================
