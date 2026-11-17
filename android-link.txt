@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://motors-carol-travesti-locks.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://sent-providing-featured-tomato.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-16 20:13:25 UTC
+Created   : 2026-11-17 07:11:58 UTC
 =======================================================
